@@ -1,0 +1,9 @@
+header {
+    color: grey;
+    background-color: aliceblue;
+    padding: 15px;
+    text-align: center;
+    border: solid 1px grey;
+    border-radius: 10px;
+
+}
